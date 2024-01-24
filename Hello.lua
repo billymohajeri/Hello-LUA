@@ -16,3 +16,7 @@ for i = 1, 10 do
 end
 
 print(myName, myAge)
+
+--[[ Multi line 
+***
+comment --]]
