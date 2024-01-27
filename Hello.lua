@@ -20,3 +20,7 @@ print(myName, myAge)
 --[[ Multi line 
 ***
 comment --]]
+
+if myName=="Billy" then
+    print(true)
+end
