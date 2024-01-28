@@ -21,6 +21,8 @@ print(myName, myAge)
 ***
 comment --]]
 
-if myName=="Billy" then
+if myName=="Tom" then
     print(true)
+elseif myName=="Billy" then
+    print(false)
 end
