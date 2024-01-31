@@ -23,6 +23,8 @@ comment --]]
 
 if myName=="Tom" then
     print(true)
-elseif myName=="Billy" then
+elseif myName=="Bill" then
     print(false)
+else
+    print("Billy")
 end
