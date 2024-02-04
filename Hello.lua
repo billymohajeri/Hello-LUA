@@ -28,3 +28,7 @@ elseif myName=="Bill" or myName=="Vill" then
 else
     print("Billy")
 end
+
+for i=10,1,-1 do
+    print(i)
+end
