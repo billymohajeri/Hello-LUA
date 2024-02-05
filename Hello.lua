@@ -32,3 +32,10 @@ end
 for i=10,1,-1 do
     print(i)
 end
+
+local i=0
+
+while i<=10 do
+    print(i)
+    i=i+1
+end
