@@ -39,3 +39,10 @@ while i<=10 do
     print(i)
     i=i+1
 end
+
+local i=0
+
+repeat
+    print('Repeat')
+    i=i+1
+until i==3
